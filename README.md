@@ -50,11 +50,20 @@ In a world that moves fast and isolates even faster, mental health often takes a
 ## 📸 Welcome Page of App
 
 <p align="center">
-  <img src="assets/sereneyou.gif" width="600"/>
+  <img src="assets/sereneyou.gif" width="400"/>
 </p>
 
 > _A glimpse into the soft and supportive world of SereneYou._
 
+---
+## 🎬 Demo
+
+<p align="center">
+  <a href="https://www.youtube.com/shorts/QKs-xiBBEDU">
+    <img src="https://img.youtube.com/vi/QKs-xiBBEDU/0.jpg" width="600" />
+  </a>
+</p>
+> _Experience the soothing simplicity of SereneYou in this quick walkthrough._
 ---
 
 ## 🤍 A Note to Users
@@ -64,17 +73,11 @@ No judgments. No algorithms. Just a small app with a big heart.
 
 ---
 
-## 📫 Connect with the Creator
-
-- **Email:** satakshisrivastava11@gmail.com  
-- **GitHub:** [@satakshi](https://github.com/satakshi444)  
-- *(Feel free to fork, contribute, or just drop a hello.)*
-
----
-
 ## 🧠 Mental Health Resources
 
 In case of emotional emergencies, please don’t rely on an app alone.  
 Reach out to your nearest **mental health helpline** or talk to someone you trust. 💛
 
 ---
+
+
