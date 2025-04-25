@@ -1,7 +1,5 @@
 # 🌿 SereneYou — A Digital Sanctuary
 
-![SereneYou Demo](assets/sereneyou-demo.gif)
-
 > *"In the chaos of distance, SereneYou is your pocket-sized pause — a place to feel seen, heard, and safe."*
 
 ---
@@ -49,10 +47,10 @@ In a world that moves fast and isolates even faster, mental health often takes a
 
 ---
 
-## 📸 Screenshots & Demo
+## 📸 Welcome Page of App
 
 <p align="center">
-  <img src="assets/sereneyou-demo.gif" width="600"/>
+  <img src="assets/sereneyou.gif" width="600"/>
 </p>
 
 > _A glimpse into the soft and supportive world of SereneYou._
